@@ -1,5 +1,7 @@
 # 개발자를 위한 수학과정
 
+[![Join the chat at https://gitter.im/KennethanCeyer/TheMathForDevelopers](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/KennethanCeyer/TheMathForDevelopers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > 개발자에게 필요한 수학을 알아보도록 합시다.
 
 ### 이 글을 읽을 때 주의하실 점.
